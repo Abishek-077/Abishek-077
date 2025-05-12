@@ -3,7 +3,7 @@
 
 💡 Building real-world projects like Timefy (Pomodoro app) & Basai (room booking system) while exploring React, Node.js, Kotlin, and Cloud Services.
 
-🎯 Aspiring Machine Learning Engineer in Switzerland, skilled in Python, TensorFlow, and Data Analytics.
+🎯 Aspiring Machine Learning Engineer in Nepal, skilled in Python, TensorFlow, and Data Analytics.
 
 ⚡ Always learning & optimizing systems for better performance!
 
