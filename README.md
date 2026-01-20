@@ -1,5 +1,5 @@
+<img width="2484" height="623" alt="Abishek GitHub Banner" src="Gemini_Generated_Image_tyee3ytyee3ytyee.png" />
 
-<img width="2484" height="623" alt="image" src="Gemini_Generated_Image_tyee3ytyee3ytyee.png" />
 
 # 💫 About Me:
 🚀 IT & E-commerce student at Softwarica College, passionate about Machine Learning, Web Development, and Backend Systems.
