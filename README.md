@@ -1,15 +1,15 @@
-<img width="2484" height="623" alt="Abishek GitHub Banner" src="Gemini_Generated_Image_tyee3ytyee3ytyee.png" />
+💫 About Me (Backend + AI-API Focused)
 
+🚀 IT & E-commerce student at Softwarica College, focused on backend engineering, distributed systems, and AI-powered APIs.
 
-# 💫 About Me:
-🚀 IT & E-commerce student at Softwarica College, passionate about Machine Learning, Web Development, and Backend Systems.
+💡 I build production-oriented full-stack applications with a strong backend bias — designing RESTful APIs, authentication systems, databases, and cloud-ready services.
+Projects include Timefy (Pomodoro productivity system) and Basai (room booking & resource management platform).
 
-💡 Building real-world projects like Timefy (Pomodoro app) & Basai (room booking system) while exploring React, Node.js, Kotlin, and Cloud Services.
+🧠 Actively working with AI as a service, integrating ML models via APIs rather than treating ML as research — using Python, TensorFlow, and PyTorch to power real features like automation, recommendations, and analytics.
 
-🎯 Aspiring Machine Learning Engineer in Nepal, skilled in Python, TensorFlow, and Data Analytics.
+🎯 Aspiring Backend / AI Platform Engineer in Nepal, interested in scalable systems, cloud infrastructure, and AI-enabled products.
 
-⚡ Always learning & optimizing systems for better performance!
-
+⚡ I care about performance, clean architecture, and system reliability more than just UI.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abishek-ghimire-ab88072a7/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@AbishekGhimire-gr5sd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abishekxofficial987@gmail.com) 
