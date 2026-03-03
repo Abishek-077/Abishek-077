@@ -1,5 +1,5 @@
 # My Portfolio Website : https://abis-portfolio.vercel.app/
-💫 About Me (Backend + AI-API Focused)
+💫 About Me (Backend + AI-API Focused) -> Building My own Start up
 
 🚀 IT & E-commerce student at Softwarica College, focused on backend engineering, distributed systems, and AI-powered APIs.
 
