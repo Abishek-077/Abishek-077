@@ -3,6 +3,8 @@
 ### currently in path of learning devops 
 🚀 IT & E-commerce student at Softwarica College, focused on backend engineering, distributed systems, and AI-powered APIs.
 
+### Software Development Intern At Trigional Technology 
+
 💡 I build production-oriented full-stack applications with a strong backend bias — designing RESTful APIs, authentication systems, databases, and cloud-ready services.
 Projects include Timefy (Pomodoro productivity system) and Basai (room booking & resource management platform).
 
