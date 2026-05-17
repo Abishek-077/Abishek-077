@@ -8,9 +8,7 @@
 💡 I build production-oriented full-stack applications with a strong backend bias — designing RESTful APIs, authentication systems, databases, and cloud-ready services.
 Projects include Timefy (Pomodoro productivity system) and Basai (room booking & resource management platform).
 
-🧠 Actively working with AI as a service, integrating ML models via APIs rather than treating ML as research — using Python, TensorFlow, and PyTorch to power real features like automation, recommendations, and analytics.
-
-🎯 Aspiring Backend / AI Platform Engineer in Nepal, interested in scalable systems, cloud infrastructure, and AI-enabled products.
+Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed. After 13+ years shipping native iOS, modern web feels like a breath of fresh air.
 
 ⚡ I care about performance, clean architecture, and system reliability more than just UI.
 
